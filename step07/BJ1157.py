@@ -1,6 +1,5 @@
-import collections
-
 s = input().lower()
+import collections
 
 dic = collections.defaultdict(int)
 

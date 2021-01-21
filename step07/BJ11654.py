@@ -1,1 +1,3 @@
-print(ord('A'))
+s = input()
+
+print(ord(s))
